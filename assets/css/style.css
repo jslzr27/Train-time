@@ -1,0 +1,35 @@
+body {
+    font-family: 'Slabo 27px', serif;
+    background: url(../images/trainstation.jpg);
+    background-position: center;
+}
+
+.display-4 {
+    font-weight: bold;
+}
+
+.jumbotron {
+    background-color: rgba(0, 0, 0, 0.9);
+    color: #E18A07;
+}
+
+.panel {
+    background-color: hsla(0, 0%, 0%, 0.9);
+    color: #C0C0C0;   
+    font-size: 18px;
+}
+
+h3 {
+    color: #E18A07;
+}
+#trainschedule {
+    background-color: hsla(0, 0%, 0%, 0.9);
+    color: #C0C0C0;
+}
+
+#submit {
+    background-color: #C0C0C0;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
